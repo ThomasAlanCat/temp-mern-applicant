@@ -6145,7 +6145,7 @@ cd client && npm run build
 
 - copy/paste all the files/folders
 
-  - from client/dist
+  - from client/dist  (or client/build)
   - to server(root)/public
 
 - in server.js point to index.html
